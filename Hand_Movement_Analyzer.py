@@ -156,6 +156,10 @@ def main(filename, confidence):
 print("This Hand movement analyzing program is made by: ")
 print("Dove from Taiwanese Pen Spinning Forum (TWPS)")
 print("Wabi from JapEn Board (JEB)")
+print("English tutorial, 中文教學: https://youtu.be/TFzqrix4G84")
+print("日本語チュートリアル: https://youtu.be/1lznwa-TdAo")
+print("Source code: https://github.com/Wu-TungLin/Pen_Spinning_Hand_Movement_Analyzer")
+print("Design Report: https://arxiv.org/pdf/2108.10716.pdf")
 print()
 while True:
     wrist = []
